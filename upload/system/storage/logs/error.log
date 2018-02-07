@@ -1,0 +1,10 @@
+2018-02-07 20:14:28 - PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'dev4_id108'@'localhost' to database 'dev4' in C:\wamp64\www\jobs\upload\system\library\db\mysqli.php on line 7
+2018-02-07 20:14:28 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\jobs\upload\system\library\db\mysqli.php on line 10
+2018-02-07 20:14:28 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\jobs\upload\system\library\db\mysqli.php on line 10
+2018-02-07 20:14:28 - PHP Notice:  Undefined variable: mysql in C:\wamp64\www\jobs\upload\install\controller\install\step_3.php on line 280
+2018-02-07 20:14:28 - PHP Notice:  Trying to get property of non-object in C:\wamp64\www\jobs\upload\install\controller\install\step_3.php on line 280
+2018-02-07 20:16:13 - PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'dev4_id108'@'localhost' to database 'dev4' in C:\wamp64\www\jobs\upload\system\library\db\mysqli.php on line 7
+2018-02-07 20:16:13 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\jobs\upload\system\library\db\mysqli.php on line 10
+2018-02-07 20:16:13 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp64\www\jobs\upload\system\library\db\mysqli.php on line 10
+2018-02-07 20:16:13 - PHP Notice:  Undefined variable: mysql in C:\wamp64\www\jobs\upload\install\controller\install\step_3.php on line 280
+2018-02-07 20:16:13 - PHP Notice:  Trying to get property of non-object in C:\wamp64\www\jobs\upload\install\controller\install\step_3.php on line 280

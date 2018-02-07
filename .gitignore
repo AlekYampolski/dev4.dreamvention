@@ -1,0 +1,4 @@
+/upload/image
+/upload/logs 
+/upload/cache 
+/upload/**/**/config.php   
